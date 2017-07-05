@@ -8,7 +8,7 @@
  */
 
 
-#include "test_main.h"
+#include "test_main.h"   // Marcin Z comment!!!
 
 // emlib header files
 #include "em_device.h"
